@@ -1,0 +1,10 @@
+data_dir: "Data/"
+batch_size: ❓
+learning_rate: ❓
+num_epochs: ❓
+random_seed: 42
+num_folds: ❓
+output_dim: 30
+cache_images: ❓
+image_size: [64, 64]
+validate_every: ❓
