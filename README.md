@@ -47,7 +47,7 @@ Modify the configuration file in `confs/config.yml` as needed.
 
 ### 5️⃣ Train the model
 - Define your model in `model.py`
-- Fill the missing lines in `train.py`
+- Fill the missing lines in `train.py` (look for ‼️‼️‼️‼️) [or write your own training script but then submit this training script as `train.py`]
 - Run the training script:
 ```bash
 python train.py
