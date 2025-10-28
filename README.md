@@ -73,6 +73,7 @@ sbatch train_job.sbatch
       - image embeddings (shape: `[batch_size, embedding_dim]`)
 2. 🔄 **Complete** the training loop in `train.py` (look for ‼️‼️‼️‼️)
 3. ⚙️ **Tune** hyperparameters in `confs/config.yml` for optimal performance
+   - use tensorboard to monitor training progress: `tensorboard --logdir {path_to_logs}`
 
 ---
 
