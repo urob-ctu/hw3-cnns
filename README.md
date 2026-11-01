@@ -85,16 +85,16 @@ This homework is worth **10 points**, distributed as follows:
 
 | Task | Metric | Threshold | Points |
 |------|--------|-----------|--------|
-| **🍊 Fruit Classification** | Accuracy | 80% | 1 pt |
+| **🍊 Fruit Classification** | Accuracy | 85% | 1 pt |
+| | | 90% | 2 pts |
+| **🎨 Segmentation Mask** | Mean IoU | 80% | 1 pt |
 | | | 85% | 2 pts |
-| **🎨 Segmentation Mask** | Mean IoU | 75% | 1 pt |
-| | | 80% | 2 pts |
-| | | 85% | 3 pts |
-| **📈 Image Embeddings (ROC)** | AUC | 0.80 | 1 pt |
+| | | 90% | 3 pts |
+| **📈 Image Embeddings (ROC)** | AUC | 0.85 | 1 pt |
+| | | 0.90 | 2 pts |
+| **🎯 Image Embeddings (TPR)** | TPR @ 5% FPR | 0.80 | 1 pt |
 | | | 0.85 | 2 pts |
-| **🎯 Image Embeddings (TPR)** | TPR @ 5% FPR | 0.75 | 1 pt |
-| | | 0.80 | 2 pts |
-| | | 0.85 | 3 pts |
+| | | 0.90 | 3 pts |
 
 ## 📦 Submission
 
