@@ -74,6 +74,7 @@ sbatch train_job.sbatch
 2. 🔄 **Complete** the training loop in `train.py` (look for ‼️‼️‼️‼️)
 3. ⚙️ **Tune** hyperparameters in `confs/config.yml` for optimal performance
    - use tensorboard to monitor training progress: `tensorboard --logdir {path_to_logs}`
+4. 📋 **LLM statement**: create a file `llm_declaration.txt` where you briefly describe how and where you used LLMs while solving the task.
 
 ---
 
@@ -103,6 +104,7 @@ Submit your code as a **zip file** containing:
 - ✅ `model.py` - Your neural network architecture
 - ✅ `train.py` - Your training script
 - ✅ `weights.pth` - Trained model weights (state_dict)
+- ✅ `llm_declaration.txt` - Your LLM usage statement
 
 > **Loading format:** Weights are loaded using:
 > ```python
@@ -119,7 +121,7 @@ Submit your code as a **zip file** containing:
 
 ### 📝 Plagiarism Policy
 ✅ You are **strongly encouraged** to discuss ideas and approaches with your peers.  
-⚠️ However, the code you submit **must be your own work**.  
+⚠️ However, the code you submit **must be your own work** and you must fully understand it.
 ❌ Copying code from others is **strictly prohibited** and will result in a **zero score** for the assignment.
 
 ---
