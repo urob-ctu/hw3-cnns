@@ -1,6 +1,6 @@
-# 🍎 UROB HW3 - Fruit Image Analysis
+# 🍎 DPL HW3 - Fruit Image Analysis
 
-This repository contains the code for the third homework assignment of the **UROB course at CTU**. The task involves training a neural network to:
+This repository contains the code for the third homework assignment of the **DPL course at CTU**. The task involves training a neural network to:
 - 🏷️ **Classify** images of fruits into 30 different categories
 - 🎨 **Segment** fruits with pixel-level masks
 - 🔍 **Learn** meaningful image embeddings
@@ -95,27 +95,6 @@ This homework is worth **10 points**, distributed as follows:
 | **🎯 Image Embeddings (TPR)** | TPR @ 5% FPR | 0.75 | 1 pt |
 | | | 0.80 | 2 pts |
 | | | 0.85 | 3 pts |
-
-### 🏆 Tournament Evaluation (up to +5 bonus points)
-
-In addition to the basic evaluation, there will be a **tournament-style evaluation** where models are ranked based on their performance across all four tasks. 
-
-**Scoring System:**
-- Your final score is determined by the **sum of ranks** in each task
-- **Lower total rank = Better score**
-- In case of a tie, the model with the **earlier submission time** ranks higher
-
-**Bonus Points:**
-- 🥇 **Winner:** +5 points
-- 🥈 **2nd place:** +4 points
-- 🥉 **3rd place:** +3 points
-- 🏅 **Top 10:** +2 points
-- 🎖️ **Top 20:** +1 point
-
-> **Maximum Score:** 15 points (10 from basic evaluation + 5 from tournament)
-
----
-
 
 ## 📦 Submission
 
